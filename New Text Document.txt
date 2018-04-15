@@ -1,0 +1,52 @@
+    <?php
+    $a=987;
+        $b="abvvjkk";
+        $c="sdfghj";
+        echo.strlen($c);
+        for($i=0;$i<=0;$i++)
+        {
+            echo $i;
+        }
+        echo "\br";
+        $X=10;
+        if(x>5)
+        {
+            echo "X";
+        }
+        else if($X=5)
+        {
+            echo "5";
+        }
+
+    /*    $y=$_GET["a"];
+            switch($y)
+            {
+                case '1':
+                    echo "today is monday";
+                    break;
+                    
+                case '2':
+                    echo "today is tuesday";
+                    break;
+                    
+                case '3':
+                    echo "today is wednesday";
+                    break;
+                    
+                case '4':
+                    echo "today is thrusday";
+                    break;
+                    
+                case '5':
+                    echo "today is friday";
+                    break;
+                    
+                case '6':
+                        echo "today is saturday";
+                           break;
+                default: echo"error";
+            }
+*/
+?>
+        
+        
